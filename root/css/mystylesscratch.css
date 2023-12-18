@@ -1,0 +1,72 @@
+body{
+    background-image: url('https://img.freepik.com/free-photo/starry-night-sky_1048-11828.jpg');
+}
+.tableaustyle{
+    display: block;
+    width: 30%;
+    border: solid rgb(244, 244, 10) 5px;
+    padding: 3px;
+    margin: auto;
+}
+h1{
+    color: rgb(244, 244, 10);
+    font-family: 'Courier New', Courier, monospace;
+    font-size: xx-large;
+    background-color: rgba(0, 0, 0, .5);
+    
+}
+h2{
+    color: rgb(244, 244, 10);
+    font-family: 'Courier New', Courier, monospace;
+    font-size: x-large;
+}   
+img{
+    display: block;
+    width: 30%;
+    padding-right: 35%;
+    padding-left: 35%;
+    margin: auto;    
+    background-color: black;
+}
+.header{
+    font-size: large;
+    font-family: 'Courier New', Courier, monospace;
+    background-color: rgba(0, 0, 0, .5);
+    color: rgb(255, 255, 0);
+    font-size: x-large;
+}
+.footer{
+    font-size: medium;
+    background-color: aqua;
+}
+.mainstuff{
+    font-size: medium;
+}
+iframe{
+    display: block;
+    width: 72%;
+    border: solid rgb(244, 244, 10) 5px;
+    padding: 3px;
+    margin: auto;
+}
+.Resume{
+    color: rgb(244, 244, 10);
+    text-decoration: underline;
+    font-family: 'Courier New', Courier, monospace;
+    background-color: black;
+}
+.top{
+    color: rgb(244, 244, 10);
+    text-decoration: underline;
+    font-weight: bold;
+    font-size: large;
+    font-family: 'Courier New', Courier, monospace;
+    background-color: rgba(0, 0, 0, .5);
+}
+.list{
+    font-size: large;
+    font-family: 'Courier New', Courier, monospace;
+    background-color: rgba(0, 0, 0, .5);
+    color: rgb(255, 255, 0);
+    font-size: x-large;
+}
